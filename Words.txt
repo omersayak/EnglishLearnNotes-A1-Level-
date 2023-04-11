@@ -1,0 +1,337 @@
+
+				Bölüm Kelimeleri-> 1
+
+1. Computer -> Bilgisayar  			-> A computer is a machine -> Bilgisayar bir makinedir.
+
+2. Machine -> Makine				-> Computers are machines. -> Bilgisayarlar makinedir.
+
+3. Programmer -> Programcı			-> Faruk is a programmer -> Faruk bir programcıdır.
+
+4. Engineer -> Mühendis				-> Mary is an engineer -> Mary bir mühendistir.
+
+5. Tool -> Araç					-> it is an important tool. -> O önemli bir araçtır.
+
+6. Keyboard -> Klavye 				-> The keyboard is on the desk. -> Klavye masanın üzerinde.
+
+7. Url -> url					-> The website's url is incorrect. -> Web sitenin urlsi hatalı / yanlış.
+
+8. Notebook -> Defter/diz üstü PC		-> The notebook is in the bag. -> defter yada pc çantanın içinde.
+
+9. İmage -> Görsel 				-> The images in your profile are nice -> profildeki görseller hoş/güzel
+
+10. Scanner -> Tarayıcı 			-> A scanner is a device -> Bir tarayıcı bir cihazdır.
+
+11. Software -> Yazılım 			-> Carl is a software engineer -> Carl bir yazılım mühendisidir.
+
+12. Hardware -> Donanım				-> She isn't a hardware engineer. -> O bir donanım mühendisi değildir.
+
+13. Animation -> Animasyon 			-> The animations in the application are good -> Bu uygulamadaki animasyonlar güzeldir.
+
+14. Mouse -> Fare 				-> The mouse is near the desktop computer. -> Fare masa üstü pcnin yanındadır.
+
+15. Monitor -> Ekran				-> The computer's monitor is really big. -> Bilgisayarın ekranı çok büyük.
+
+16. Bug -> Böcek/hata				-> There are many bugs in this game. -> Bu oyunda bir çok hata var
+
+17. Data analyst -> Veri analisti 		-> i'm a data analyst. -> Ben bir veri analistiyim
+
+18. Data scientist -> Veri bilimcisi		-> They are data scientist -> Onlar veri bilimcisidir.
+
+19. Cyber security expert -> Siber G. Uzmanı	-> Faruk is a cyber security exper -> Faruk bir siber Güvenlik uzmanıdır.
+
+20. Critical error -> Kritik hata 		-> They are ciritical errors. -> Onlar kritik hatalar.
+
+21. Architect -> Mimar				-> My brother is an intelligent architect -> Benim kardeşim Zeki bir mimardır.
+
+22. Technician -> Teknisyen 			-> Mary is a hardworking technician -> Mary çalışkan bir teknisyendir.
+
+23. File -> Dosya 				-> They are locked files. -> Onlar kilitli dosyalar.
+
+24. Network -> AĞ				-> it's a closed network -> o kapalı bir ağ
+
+25. Library -> Kütüphane			-> My father is in the library now -> Babam şuanda kütüphane de
+
+26. IT expert -> IT uzmanı 			-> is she an IT expert -> O bir IT uzmanı mı?
+
+27. Administrator -> Yönetici			-> The administrators are here. -> Yöneticiler burada
+
+28. Cable -> Kablo				-> Where are the cables? -> Kablolar nerede?
+
+29. Permanent -> Kalıcı 			-> They are permanent changes. -> Onlar kalıcı değişiklikler.
+
+30. Developer -> Geliştirici 			-> Where is the responsible software developer. -> Sorumlu yazılım geliştiricisi nerede?
+
+31. Device -> Aygıt				-> This device is important for the system -> Bu cihaz sistem için önemlidir.
+
+32. Hard disk drive -> Hardisk Sürücüsü 	-> A hard disk drive is an important device. -> Bir sabit sürücü önemli bir cihazdır.
+
+33. Head office -> Ana ofis			-> is the head office near the bank? -> Ana ofis bankanın yanında
+
+
+
+
+#####################################################################################################################
+
+
+
+
+
+
+
+
+				Bölüm Kelimeleri-> 2
+
+
+1. Powerful 	-> Güçlü				-> Jack has a powerful computer -> Jack güçlü bir pcye sahip
+
+2. Manager 	-> YÖnetici				-> My sister has good managers.
+
+3. Task 	-> Görev
+
+4. Memory 	-> Hafıza
+
+5. Smart phone 	-> Akıllı telefon
+
+6. Desk 	-> Çalışma masası
+
+7. Document 	-> Dosya
+
+8. Virus 	-> Virüs
+
+9. Harmful 	-> Zararlı
+
+10. İnformation -> Bilgi
+
+11. Colleague 	-> iş arkadaşı
+
+12.  Microphone -> Mikrofon.
+
+
+
+#####################################################################################################################
+
+
+
+
+				Bölüm Kelimeleri-> 3
+
+
+1. Time 	-> Zaman 				-> What time is it?
+
+2. Class 	-> Sınıf
+
+3. Exam 	-> Sınav
+
+4. Program 	-> Program
+
+5. Game 	-> Oyun
+
+6. Due date 	-> Teslim Tarihi
+
+7. Midterm exam -> Dönem Ortası sınav
+
+8. Project 	-> Proje
+
+9. Graduation 	-> Mezuniyet
+
+10. Election 	-> Seçim
+
+11. Birthdate 	-> Doğum tarihi
+
+12. Final 	-> Final
+
+13. Day 	-> Gün
+
+14. Week 	-> Hafta
+
+15. Month 	-> Ay
+
+16. Year 	-> Yıl
+
+17. Date 	-> Tarih
+
+18. Match 	-> Eşleştirmek
+
+19. Store 	-> Mağza
+
+20. Closed -> Kapalı
+
+21. Release -> Çıkış
+
+
+
+#####################################################################################################################
+
+
+
+
+				Bölüm Kelimeleri-> 4
+
+
+1. Search engine optimization	-> Arama motoru optimizasyonu
+
+2. Data mining			-> Veri madenciliği.
+
+3. Application			-> Uygulama
+
+4. Antivirus 			-> Antivirus
+
+5. Desktop computer		-> Masaüstü bilgisayar.
+
+6. Wallpaper			-> Duvar kağıdı.
+
+7. Screen			-> Ekran
+
+8. İnterpreter			-> Yorumlayıcı/Tercuman
+
+9. Folder			-> Klasor
+
+10.Access 			-> Erişim
+
+11.Source code			-> Kaynak kodu
+
+12.Developer 			-> Geliştirici
+
+13.Filed			-> Alan
+
+14.Upload			-> Yüklemek
+
+15.Meeting			-> Toplantı
+
+16.Factory			-> Fabrika
+
+17.Chess			-> Satranç
+
+18.On foot			-> Yürüyerek
+
+19.Run				-> Koşmak/çalıştırmak
+
+20.Fix				-> Tamir etmek
+
+21.Map				-> Harita
+
+
+
+
+
+
+
+#####################################################################################################################
+
+
+
+
+
+
+
+
+				Bölüm Kelimeleri-> 5
+
+
+
+1. Livingroom 		-> Oturma Odası
+
+2. Kİtchen 		-> Mutfak
+
+3. Watching		-> İzlemek
+
+4. Room 		-> Oda
+
+5. Bedrooms		-> Yatak odası
+
+6. Balcony		-> Balkon
+
+7. Bathroom 		-> Banyo
+
+8. Kitchen table 	-> Mutfak masası
+
+9. Refrigerator		-> Buzdolabı
+
+10.Dishwasher		-> Bulaşık makinesi
+
+11.Cupboard		-> Dolap
+
+12.Television		-> Televizyon	
+
+13.Sofas		-> Kanepe
+
+14.Armchair		-> Koltuk
+
+15.Chairs		-> Sandalye
+
+16.Dİnner table		-> Yemek masası
+
+17.Wardrobe		-> Elbise dolabı
+
+18.Mirror 		-> Ayna
+
+19.Morning		-> Sabah
+
+20.Afternon		-> Öğleden sonra
+
+21.Evening		-> Akşam
+
+22.Night		-> Gece
+
+23.Together		-> Birlikte
+
+24.Cook 		-> Yemek
+
+25.Excellent		-> Muthiş! / Harika!
+
+
+
+
+
+
+
+
+#####################################################################################################################
+
+
+
+
+
+				Bölüm Kelimeleri-> 6
+
+
+1. Study		-> Çalışmak
+
+2. Pool			-> Havuz / Bilardor
+
+3. Chat			-> Sohbet etmek
+
+4. Garden		-> Bahçe
+
+5. Smile		-> Gülmek
+
+6. Hold			-> Tutmak
+
+7. Poem			-> Şiir
+
+8. Funny		-> Eğlenceli
+
+9. Video Game		-> Video oyunu
+
+10.News			-> Haber
+
+11.Curious		-> Meraklı
+
+12.Fly			-> Uçmak
+
+13.Get married		-> Evlenmek
+
+14.Trip			-> Gezi
+
+15.Hometown		-> Memleket
+
+16.Relative		-> Akraba
+
+17.Get up		-> Kalkmak
+
+18.Holiday		-> Tatil
+
+19.Key			-> Anahtar
+
+20.Visit		-> Ziyaret Etmek
+
